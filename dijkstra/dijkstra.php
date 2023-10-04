@@ -32,6 +32,7 @@
         }
     }
 
+    teste;
 
     class Dijkstra {
         public static function encontrarCaminhoMinimo(Grafo $grafo, $origem) {
